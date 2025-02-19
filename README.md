@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dino7354&label=Profile%20views&color=0e75b6&style=flat" alt="dino7354" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ui Ux Design**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/dinesh-suthar-037069257](www.linkedin.com/in/dinesh-suthar-037069257)
 
