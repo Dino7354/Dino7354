@@ -81,7 +81,9 @@ Tools        :: Git, Bash, Linux, VS Code, Figma, Photoshop
 
 ## 🐍 Contribution Snake
 
+> ⚙️ Follow [this guide](https://github.com/Platane/snk) to generate the snake file.
 
+```md
 ![Snake animation](https://github.com/dino7354/dino7354/blob/output/github-contribution-grid-snake.svg)
 ```
 
